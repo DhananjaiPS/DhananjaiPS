@@ -30,9 +30,9 @@
 <h2 align="center" style="color: #FFFFFF;">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,ts,react,nextjs,graphql,express,prisma,mongodb,docker,githubactions,seedot" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,c++,html,css,js,ts," />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=iot,arduino,esp32,ml,genai" />
+  <img src="https://skillicons.dev/icons?i=react,arduino,nextjs,graphql,express,prisma,mongodb,mysql" />
 </div>
 
 <hr/>
