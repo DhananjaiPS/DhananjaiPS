@@ -35,7 +35,7 @@ I also work with **IoT hardware (ESP32, sensors, CV models)** to create AI-power
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,cpp,c&theme=dark" />
 </p>
 
 ### **Frameworks & Tools**
