@@ -58,7 +58,9 @@ I also work with **IoT hardware (ESP32, sensors, CV models)** to create AI-power
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjaiPS&layout=compact&theme=dark&border_radius=10" />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjaiPS&layout=compact&theme=dark&hide_progress=true"
+/>
   <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=DhananjaiPS&bg_color=0d1117&color=FFD700&line=FF7F50&point=00FFFF&area=true&area_color=FFAA00" />
 </p>
 ---
